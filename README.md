@@ -1,0 +1,2 @@
+# Automated-software-for-travel-industry
+TravelMint software is a complete automated travel software solution for inbound travel companies, destination management companies, tour management companies and local tour agents to provide an ease to our client's business. This platform has user friendly interface for Costing / Itinerary generation (B2B/B2C), a comprehensive Offline / Online booking engine, Automated Quotation Generation and Tailor-made Itineraries for your discerning clients.
